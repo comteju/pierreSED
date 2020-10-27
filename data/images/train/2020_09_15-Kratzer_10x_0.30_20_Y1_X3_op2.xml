@@ -11,39 +11,15 @@
   </size>
   <segmented>0</segmented>
   <object>
-    <name>d</name>
+    <name>Loch</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>52</xmin>
+      <xmin>75</xmin>
       <ymin>0</ymin>
-      <xmax>183</xmax>
-      <ymax>89</ymax>
-    </bndbox>
-  </object>
-  <object>
-    <name>d</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-      <xmin>46</xmin>
-      <ymin>116</ymin>
-      <xmax>103</xmax>
-      <ymax>279</ymax>
-    </bndbox>
-  </object>
-  <object>
-    <name>d</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-      <xmin>41</xmin>
-      <ymin>99</ymin>
-      <xmax>280</xmax>
-      <ymax>181</ymax>
+      <xmax>176</xmax>
+      <ymax>283</ymax>
     </bndbox>
   </object>
 </annotation>

@@ -11,14 +11,14 @@
   </size>
   <segmented>0</segmented>
   <object>
-    <name>d</name>
+    <name>Loch</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>74</xmin>
-      <ymin>63</ymin>
-      <xmax>263</xmax>
+      <xmin>99</xmin>
+      <ymin>68</ymin>
+      <xmax>235</xmax>
       <ymax>258</ymax>
     </bndbox>
   </object>

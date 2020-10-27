@@ -1,6 +1,6 @@
 <annotation>
   <folder>VOC2007</folder>
-  <filename>2020_09_15-Kratzer_10x_0.30_26_op6.png</filename>
+  <filename>2020_09_15-Kratzer_10x_0.30_27_op5.png</filename>
   <source>
     <database>Coco database</database>
   </source>
@@ -11,27 +11,63 @@
   </size>
   <segmented>0</segmented>
   <object>
-    <name>d</name>
+    <name>Loch</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>39</xmin>
-      <ymin>59</ymin>
-      <xmax>275</xmax>
-      <ymax>310</ymax>
+      <xmin>149</xmin>
+      <ymin>252</ymin>
+      <xmax>308</xmax>
+      <ymax>295</ymax>
     </bndbox>
   </object>
   <object>
-    <name>d</name>
+    <name>Loch</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>121</xmin>
+      <xmin>15</xmin>
       <ymin>0</ymin>
-      <xmax>218</xmax>
-      <ymax>157</ymax>
+      <xmax>85</xmax>
+      <ymax>320</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Loch</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>61</xmin>
+      <ymin>35</ymin>
+      <xmax>305</xmax>
+      <ymax>268</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Loch</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>114</xmin>
+      <ymin>40</ymin>
+      <xmax>158</xmax>
+      <ymax>75</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Loch</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>14</xmin>
+      <ymin>154</ymin>
+      <xmax>174</xmax>
+      <ymax>230</ymax>
     </bndbox>
   </object>
 </annotation>
